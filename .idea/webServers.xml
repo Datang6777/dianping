@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="efe4b6e7-6845-4174-b560-a2ac6ee7f959" name="10.144.46.152开发机" url="http://10.144.46.152">
+        <fileTransfer host="10.144.46.152" port="22" rootFolder="/search/phantomjs/zhaojianbin/dh123h5/python" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
