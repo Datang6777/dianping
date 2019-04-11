@@ -34,7 +34,7 @@ header_css = {
 # 0-详情页
 def get_msg():
     """
-    url: http://www.dianping.com/shop/+ 商铺ID +/review_all
+    url: http://m.dianping.com/shop/500212
     :return:
     """
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf8')  # 改变标准输出的默认编码
